@@ -1,7 +1,7 @@
-# OLS-582 Change Theory, Lego Case Study Brownbag, Summer 2025
+# OLS-582 IDE Addon Security, Summer 2025
 _Josh Miller_
 
-View the slides: https://joshmiller83.github.io/OLS-582-Lego-Case-Study/
+View the slides: https://joshmiller83.github.io/OLS-582-IDE-Addon-Security/
 
 ## Project Overview
 
