@@ -250,7 +250,7 @@ image: assets/ChatGPT-slide6.png
   </div>
   <div class="text-2xl ml-12 mt-18">
   <div v-click class="mb-6"><twemoji-family-woman-girl-boy class="-ml-12" /> &nbsp; <strong>Pilot</strong>: A volunteer group to review current plugin usage<br>and create guidance.</div>
-  <div v-click><twemoji-spiral-calendar class="-ml-12" /> &nbsp; <strong>Timeline</strong>: Plan to launch guardrails by October.</div>
+  <div v-click><twemoji-spiral-calendar class="-ml-12" /> &nbsp; <strong>Timeline</strong>: Plan to launch guardrails by end of year.</div>
   </div>
 </div>
 
